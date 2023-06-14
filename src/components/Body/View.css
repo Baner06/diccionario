@@ -1,0 +1,12 @@
+.Categoria {
+  color: white;
+  text-align: center;
+  margin: 10px 30px 0 15px;
+  padding-top: 20px;
+  font-weight: bold;
+}
+
+.row {
+  padding: 10px 10px 10px 25px;
+  justify-content: left;
+}

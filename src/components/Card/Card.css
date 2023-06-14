@@ -1,0 +1,29 @@
+.card {
+  border-color: black;
+  margin: 0 8px 8px 0;
+  width: 20rem;
+  background: #252529;
+  /* background: rgb(30, 30, 32); */
+}
+
+.card-img-top {
+  border-bottom: 1px solid black;
+}
+
+.card-title {
+  color:white;
+}
+
+.btn-outline-success-sound{
+  color: white;
+  border-color: #808080;
+  background-color: transparent;
+}
+
+.btn-outline-success-sound:active,
+.btn-outline-success-sound:hover{
+  /* color: #0af802 ; */
+  color: #E6C068 ;
+  border-color: #E6C068;
+  background-color: transparent;
+}
